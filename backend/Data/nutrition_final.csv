@@ -1,0 +1,636 @@
+Energy,Protein,Fat,Carbohydrate,Name,Group
+344,8.6,1.5,74.5,Gạo nếp - Nếp,Group_1
+344,8.1,1.3,75,Gạo tẻ - Gạo,Group_1
+345,7.5,2.7,72.8,Gạo lứt,Group_1
+331,7,3,69,Kê,Group_1
+196,4.1,2.3,39.6,Ngô - Bắp - Bắp Mỹ,Group_1
+219,6.1,0.5,47.5,Bánh bao,Group_1
+333,4,0.2,78.9,Bánh đa nem,Group_1
+52,0.9,0.3,11.3,Bánh đúc,Group_1
+249,7.9,0.8,52.6,Bánh mỳ - Bánh mì - Bánh sandwich,Group_1
+143,3.2,0.4,31.7,Bánh phở,Group_1
+292,8,10.8,40.7,Quẩy,Group_1
+372,8.6,1.6,80.8,Bỏng ngô,Group_1
+362,8.2,1.6,78.8,Bột gạo nếp - Bột nếp,Group_1
+359,6.6,0.4,82.2,Bột gạo tẻ - Bột tẻ - Bột gạo,Group_1
+346,10.3,1.1,73.6,Bột mì - Bột mỳ - Vỏ bánh,Group_1
+361,8.3,4,73,Bột ngô - Bột bắp,Group_1
+110,1.7,0,25.7,Bún,Group_1
+297,6.1,0.8,66.3,Cốm,Group_1
+349,11,0.9,74.2,Mỳ,Group_1
+115,3.6,0.5,24,Củ ấu,Group_2
+127,3.1,0.2,28.3,Củ cải,Group_2
+119,1.4,0,28.4,Củ dong,Group_2
+152,1.1,0.2,36.4,Củ sắn,Group_2
+350,16.1,0.5,70.3,Củ súng khô,Group_2
+92,1.5,0,21.5,Củ từ,Group_2
+119,0.8,0.2,28.5,Khoai lang,Group_2
+109,1.5,0.2,25.2,Khoai môn,Group_2
+98,1,0.1,23.3,Khoai nước,Group_2
+104,0.8,0,25.1,Khoai riềng,Group_2
+114,1.8,0.1,26.5,Khoai sọ,Group_2
+93,2,0.1,20.9,Khoai tây - Khoai,Group_2
+332,0.6,0.1,82.2,Miến,Group_2
+341,0.6,0,84.7,Bột dong lọc,Group_2
+334,2.2,0.5,80.2,Bột khoai lang,Group_2
+337,0.2,0,84.1,Bột khoai riềng,Group_2
+345,1,0.3,84.4,Bột khoai tây,Group_2
+333,2.4,0.5,79.6,Bột sắn - Bột sắn dây - Sắn dây,Group_2
+333,2.2,0.5,80,Khoai lang khô,Group_2
+330,6.6,0.3,75.1,Khoai tây khô,Group_2
+340,3,0.7,80.3,Sắn khô - Sắn,Group_2
+341,1,0,84.3,Trân châu,Group_2
+368,4.8,36,6.2,Cùi dừa già,Group_3
+40,3.5,1.7,2.6,Cùi dừa non - Cùi dừa - Dừa,Group_3
+321,21.8,1.6,54.9,Đậu ve,Group_3
+325,24.2,1.7,53.3,Đậu đen,Group_3
+320,23.7,2,51.9,Đậu đũa,Group_3
+318,22.2,1.4,54.1,Đậu Hà lan,Group_3
+400,34,18.4,24.6,Đậu tương (đậu nành),Group_3
+327,23.2,2.1,53.8,Đậu trắng hạt,Group_3
+321,25.8,2,50,Đậu trứng cuốc,Group_3
+328,23.4,2.4,53.1,Đậu xanh - Đậu tẻ,Group_3
+638,18,59,8.7,Hạt dẻ cười,Group_3
+223,4.2,1.1,49.1,Hạt dẻ,Group_3
+472,17.3,29,35.5,Hạt đen,Group_3
+605,18.4,46.3,28.7,Hạt điều - Điều,Group_3
+166,0.7,1.1,38.3,Hạt mít,Group_3
+573,27.5,44.5,15.5,Lạc - Đậu phộng - Đậu phụng,Group_3
+568,20.1,46.4,17.6,"Vừng (đen, trắng)",Group_3
+321,49,1,29,Bột đậu tương,Group_3
+347,24.6,2.5,56.5,Bột đậu xanh,Group_3
+575,27.5,45,15,Bột lạc,Group_3
+95,10.9,5.4,0.7,Đậu phụ - Đậu - Tàu hũ - Đậu hũ - Tàu hủ,Group_3
+519,35.1,31.8,23,Hạt bí đỏ,Group_3
+551,31.8,39.1,18,Đậu hũ,Group_3
+405,31.1,9.7,48.2,Sữa bột đậu nành,Group_3
+28,3.1,1.6,0.4,Sữa đậu nành,Group_3
+37,2.3,0.2,6.4,Tào phớ,Group_3
+14,0.6,0.02,2.9,Bầu,Group_4
+12,0.6,0,2.4,Bí đao - Bí xanh - Bí,Group_4
+27,0.3,0.1,6.1,Bí ngô - Bí đỏ,Group_4
+23,1.2,0.2,4,Cà bát,Group_4
+20,0.6,0.2,4,Cà chua,Group_4
+20,1.5,0,3.6,Cà pháo,Group_4
+39,1.5,0.2,7.8,Cà rốt,Group_4
+292,9.2,1.5,60.4,Cà rốt khô,Group_4
+22,1,0,4.5,Cà tím,Group_4
+29,1.8,0.1,5.3,Cải bắp - Bắp cải,Group_4
+245,18,1.6,39.7,Cải bắp khô,Group_4
+14,1.6,0,1.9,Cải cúc,Group_4
+15,2.1,0.1,1.3,Cải xoong,Group_4
+17,1.4,0.2,2.4,Cải thảo - Cải trắng - Cải ngọt,Group_4
+16,1.7,0.2,1.9,Cải xanh - Cải,Group_4
+10,1,0,1.5,Cần ta,Group_4
+48,3.7,0.2,7.9,Cần tây,Group_4
+74,1.2,0.5,16.4,Chuối xanh,Group_4
+48,1.3,0,10.8,Củ cải đỏ,Group_4
+21,1.5,0.1,3.6,Củ cải trắng,Group_4
+220,17.6,1.5,33.9,Củ cải trắng khô,Group_4
+28,1,0,6,Củ đậu,Group_4
+30,2,0,5.4,Củ niễng,Group_4
+14,1.9,0,1.6,Dọc củ cải - Củ cải,Group_4
+5,0.4,0,0.8,Dọc mùng,Group_4
+16,0.8,0.1,2.9,Dưa chuột,Group_4
+11,0.8,0,2,Dưa gang,Group_4
+73,5,0,13.3,Đậu cô ve,Group_4
+59,6,0.4,7.9,Dưa đũa,Group_4
+72,6.5,0.4,10.6,Đậu Hà Lan,Group_4
+34,1.9,0.1,6.3,Đậu rồng,Group_4
+22,0.8,0,4.6,Đu đủ xanh,Group_4
+122,2.1,7.9,10.5,Gấc,Group_4
+79,7.7,1.8,8,Giá đậu tương,Group_4
+44,5.5,0.2,5.1,Giá đỗ - Giá đậu xanh - Giá,Group_4
+26,1.3,0.4,4.4,Hành củ,Group_4
+22,1.3,0,4.3,Hành lá - Hành hoa - Hành,Group_4
+41,1.8,0.1,8.2,Hành tây,Group_4
+161,9.5,0.5,29.5,Hạt sen - Hạt sen tươi - Sen,Group_4
+334,20,2.4,58,Hạt sen khô,Group_4
+18,2.2,0.3,1.5,Hẹ - Hẹ lá,Group_4
+20,1.5,0,3.5,Hoa chuối,Group_4
+23,2.9,0,2.8,Hoa lý,Group_4
+16,0.6,0.3,2.8,Khế,Group_4
+39,4.3,0,5.4,Lá lốt - Xương sông,Group_4
+46,7.5,0,4,Lá me,Group_4
+27,3.9,0,2.9,Lá mơ,Group_4
+78,7,0,12.6,Lá sắn,Group_4
+11,1.4,0,1.4,Măng chua,Group_4
+157,13,2.1,21.5,Măng,Group_4
+14,2.2,0.1,1.1,Măng tây,Group_4
+15,1.7,0.3,1.4,Măng tre,Group_4
+17,0.9,0.2,2.8,Mướp,Group_4
+16,0.9,0.2,2.8,Mướp đắng - Khổ qua,Group_4
+10,0.8,0,1.8,Mướp Nhật bản,Group_4
+25,3.8,0,2.4,Ngải cứu,Group_4
+40,2.2,0.2,7.4,Ngô bao tử,Group_4
+61,1,0.1,13.9,Ngó sen,Group_4
+30,4.9,0,2.5,Nụ mướp,Group_4
+23,1,0.3,4,Ớt đỏ - Ớt chỉ thiên - Ớt,Group_4
+29,1.3,0.2,5.5,Ớt vàng,Group_4
+25,1.3,0.2,4.5,Ớt xanh,Group_4
+19,0.8,0,3.9,Quả dọc,Group_4
+27,1.9,0,4.8,Quả me chua,Group_4
+18,2.7,0,1.7,Rau bí,Group_4
+198,11.2,1.1,35.8,Rau câu khô,Group_4
+25,1.9,0.1,4.1,Rau câu - Rau câu tươi,Group_4
+14,1.2,0.2,1.8,Rau diếp,Group_4
+25,2.8,0.3,3,Rau đay,Group_4
+22,2.9,0,2.7,Giấp cá - diếp cá,Group_4
+21,3.4,0.3,1.1,Rau dền cơm,Group_4
+41,3.3,0.3,6.2,Rau dền đỏ,Group_4
+42,3.2,0.4,6.3,Rau dền trắng,Group_4
+20,2.2,0.6,1.5,Húng,Group_4
+23,2.6,0.3,2.5,Rau khoai lang,Group_4
+22,2.7,0,2.8,Rau kinh giới,Group_4
+25,3.1,0,3.1,Rau má rừng,Group_4
+20,3.2,0,1.8,Rau má,Group_4
+14,2,0,1.4,Rau mồng tơi,Group_4
+16,2.6,0.5,0.2,Rau mùi,Group_4
+25,2.1,0.8,2.4,Rau mùi tàu,Group_4
+25,3.2,0.4,2.1,Rau muống,Group_4
+245,34.2,1.8,23,Rau muống khô,Group_4
+15,1.5,0,2.3,Rau ngố,Group_4
+35,5.3,0,3.4,Rau ngót,Group_4
+239,32.2,2.6,21.8,Rau ngót khô,Group_4
+30,4.7,0,2.8,Rau răm,Group_4
+28,5.1,0,1.8,Rau rút,Group_4
+17,1.5,0.4,1.8,Rau xà lách - Xà lách,Group_4
+18,1.4,0,3,Rau sam,Group_4
+48,6.5,0,5.5,Rau sắng,Group_4
+18,2.5,0,1.9,Rau tàu bay,Group_4
+18,2,0,2.4,Rau thơm,Group_4
+19,1.8,0,3,Sấu xanh,Group_4
+37,2.8,0.1,6.2,Su hào,Group_4
+261,20,1.4,42.1,Su hào khô,Group_4
+19,0.8,0.1,3.6,Su su - Susu,Group_4
+30,2.5,0.1,4.8,Súp lơ trắng,Group_4
+26,3,0.3,2.9,Súp lơ - Súp lơ xanh - Bông cải,Group_4
+28,2.6,1.1,1.8,Thìa là - Thì là,Group_4
+25,2.9,0,3.4,Tía tô,Group_4
+121,6,0.5,23,Tỏi - Tỏi ta - Tỏi,Group_4
+29,1.4,0,5.9,Tỏi tây,Group_4
+114,2.5,10,3.6,Trám đen chín,Group_4
+37,1.2,1.6,4.4,"Trám xanh sống, trám trắng",Group_4
+15,2.2,0,1.5,Xương sông,Group_4
+6,0.6,0,1,Cà chua muối,Group_4
+13,1.3,0,2,Cà muối nén,Group_4
+16,1.5,0,2.5,Cà muối sối,Group_4
+18,1.2,0,3.3,Dưa cải bắp,Group_4
+17,1.8,0,2.4,Dưa cải bẹ,Group_4
+10,1.1,0,1.3,Dưa cải sen,Group_4
+13,0.8,0,2.5,Dưa chuột muối,Group_4
+39,5,0,4.8,Dưa giá,Group_4
+22,1.4,0,4,Hành củ muối,Group_4
+24,1.3,0,4.7,Kiệu muối - Kiệu - Củ kiệu,Group_4
+16,2.5,0,1.5,Nhút,Group_4
+340,52.5,3.2,25.4,Men bia khô,Group_4
+95,16.2,1.3,4.5,Men bia - Men,Group_4
+304,10.6,0.2,65,Mộc nhĩ,Group_4
+274,36,4,23.5,Nấm hương khô,Group_4
+39,5.5,0.5,3.1,Nấm hương,Group_4
+32,4,0.3,3.4,Nấm mỡ (Nấm tây),Group_4
+57,3.6,3.2,3.4,Nấm rơm,Group_4
+34,4.6,0.8,2.2,Nấm,Group_4
+30,0.2,0,7.3,Bưởi,Group_5
+38,0.9,0.1,8.3,Cam,Group_5
+24,0.9,0.3,4.5,Chanh,Group_5
+72,1.5,0,16.4,Chôm chôm,Group_5
+292,5,0,68,Chuối khô,Group_5
+56,0.9,0.3,12.4,Chuối - Chuối tây - Chuối chín,Group_5
+97,1.5,0.2,22.2,Chuối tiêu,Group_5
+27,0.6,0,6.2,Dâu gia,Group_5
+43,1.8,0.4,8.1,Dâu tây - Dâu,Group_5
+18,0.5,0.2,3.6,Dưa bở,Group_5
+16,1.2,0.2,2.3,Dưa hấu,Group_5
+17,0.3,0.1,3.7,Dưa hồng,Group_5
+18,0.4,0,4.2,Dưa lê,Group_5
+29,0.8,0,6.5,Dứa - Dứa ta - Thơm,Group_5
+38,0.5,0.1,8.8,Dứa tây,Group_5
+31,0.9,0.2,6.3,Đào,Group_5
+36,1,0.1,7.6,Đu đủ chín,Group_5
+16,0.4,0.3,3.2,Roi,Group_5
+34,1.4,0,7.2,Hồng bì,Group_5
+29,0.7,0.2,6,Hồng đỏ,Group_5
+38,0.9,0,8.6,Hồng ngâm,Group_5
+48,0.5,0.7,10,Hồng xiêm,Group_5
+45,0.7,0.2,10.2,Lê,Group_5
+70,0.6,0.3,16.2,Lựu,Group_5
+53,1.8,0.6,10.1,Mãng cầu xiêm,Group_5
+24,0.2,0,5.7,Mắc coọc,Group_5
+20,0.6,0.2,3.9,Mận,Group_5
+50,0.6,0.3,11.1,Mít,Group_5
+280,2.9,0,67,Mít khô,Group_5
+62,1.5,0,14,Mít mật,Group_5
+48,0.9,0.4,10.1,Mơ,Group_5
+273,3,1.1,62.8,Mơ khô,Group_5
+67,0.6,0.4,15.3,"Muỗm, quéo",Group_5
+66,1.6,0.3,14.2,Na - Mãng cầu,Group_5
+48,0.9,0.1,10.9,Nhãn,Group_5
+285,4.3,0.5,65.9,Nhãn khô,Group_5
+68,0.4,0.2,16.3,Nho,Group_5
+14,0.4,0,3.1,Nho ta (nho chua),Group_5
+13,1.2,0,2.1,Nhót,Group_5
+38,0.6,1,6.8,Ổi,Group_5
+101,1.9,9.4,2.3,Quả bơ,Group_5
+58,1.8,0,12.8,Quả cóc,Group_5
+40,1.3,0,8.7,Quả thanh long - Thanh long,Group_5
+106,4.3,0.4,21.3,Quả trứng gà,Group_5
+26,0.9,0,5.5,Quất - Tắc,Group_5
+39,0.8,0.3,8.3,Quít,Group_5
+132,2.5,1.6,26.9,Sầu riêng,Group_5
+38,1.3,0,8.2,Sấu chín,Group_5
+38,0.8,0.2,8.3,Táo ta,Group_5
+48,0.5,0.2,11,Táo tây - Táo,Group_5
+45,0.7,0.4,9.6,Vải,Group_5
+260,3,1.9,57.6,Vải khô,Group_5
+42,1,0,9.4,Vú sữa,Group_5
+62,0.6,0.3,14.1,Xoài - Xoài chín,Group_5
+56,1.1,0.5,11.7,Quả kiwi,Group_5
+756,0.5,83.5,0.5,Bơ - Bơ lạt,Group_6
+897,0,99.7,0,Dầu thảo mộc,Group_6
+827,2,91,0,Mỡ lợn muối,Group_6
+896,0,99.6,0,Mỡ lợn nước,Group_6
+729,0.5,80.7,0.1,Bơ thực vật,Group_6
+900,0,100,0,Dầu bông,Group_6
+900,0,100,0,Dầu cám gạo,Group_6
+900,0,100,0,Dầu cọ,Group_6
+900,0,100,0,Dầu dừa,Group_6
+900,0,100,0,Dầu đậu tương,Group_6
+900,0,100,0,Dầu lạc,Group_6
+900,0,100,0,Dầu mè - Dầu vừng - Mè - Vừng,Group_6
+900,0,100,0,Dầu ngô,Group_6
+900,0,100,0,Dầu ôliu - Dầu ăn - Dầu thực vật,Group_6
+144,19,7.5,0,Thịt bê mỡ,Group_7
+85,20,0.5,0,Thịt bê - Bê,Group_7
+118,21,3.8,0,Thịt bò - Bò - Bò phi lê - Bắp bò - Ba chỉ bò,Group_7
+127,23.1,3.9,0,Thịt lưng bò nạc,Group_7
+340,17.5,30,0,Thịt bồ câu - Bồ câu - Chim bồ câu - Chim,Group_7
+338,16,30.4,0,Thịt chó sấn,Group_7
+230,18,17.6,0,Thịt chó vai,Group_7
+219,16.4,17,0,Thịt cừu - Cừu,Group_7
+122,20.7,4.3,0,"Thịt dê, nạc",Group_7
+141,24.4,4.8,0,Thịt gà rừng,Group_7
+199,20.3,13.1,0,Thịt gà - Gà - Thịt gà ta,Group_7
+218,20.1,15.3,0,Thịt gà tây,Group_7
+94,19,2,0,Thịt hươu,Group_7
+394,14.5,37.3,0,Thịt lợn mỡ,Group_7
+139,19,7,0,Thịt lợn nạc,Group_7
+260,16.5,21.5,0,Thịt lợn - Ba rọi - Thịt heo - Heo - Bacon - Thịt ba chỉ - Xá xíu - Thịt hun khói,Group_7
+409,14,39.2,0,Thịt ngỗng,Group_7
+176,21.5,10,0,Thịt ngựa,Group_7
+158,21.5,8,0,Thịt thỏ,Group_7
+97,20.4,1.4,0.9,Thịt trâu,Group_7
+267,17.8,21.8,0,Thịt vịt - Vịt,Group_7
+67,12.5,1.8,0.3,Bầu dục bò,Group_7
+81,13,3.1,0.3,Bầu dục lợn,Group_7
+118,23.3,2.7,0,Bì lợn,Group_7
+230,15.7,18.6,0,Chân giò lợn - Chân giò,Group_7
+97,14.8,4.2,0,Dạ dày bò,Group_7
+85,14.6,2.9,0,Dạ dày lợn,Group_7
+185,18.1,12.5,0,Đầu bò,Group_7
+335,13.4,31.3,0,Đầu lợn,Group_7
+137,19.7,6.5,0,Đuôi bò,Group_7
+467,10.8,47.1,0,Đuôi lợn,Group_7
+109,17.4,3.1,3,Gan bò,Group_7
+111,18.2,3.4,2,Gan gà,Group_7
+116,18.8,3.6,2,Gan lợn,Group_7
+122,17.1,4.7,2.8,Gan vịt,Group_7
+124,30.2,0.3,0,Gân chân bò,Group_7
+164,13.6,12.1,0.2,Lưỡi bò,Group_7
+178,14.2,12.8,1.4,Lưỡi lợn,Group_7
+44,7.2,1.3,0.8,Lòng lợn (ruột non),Group_7
+99,21.3,1.3,0.6,Mề gà,Group_7
+124,9,9.5,0.5,Ốc bò,Group_7
+123,9,9.5,0.4,Ốc lợn,Group_7
+103,15.2,4.7,0,Phổi bò,Group_7
+92,14.8,3.6,0,Phổi lợn,Group_7
+187,17.9,12.8,0,Sườn lợn - Sườn - Cốt lết,Group_7
+126,21,4.1,1.3,Tai lợn,Group_7
+89,15,3,0.6,Tim bò,Group_7
+114,16,5.5,0,Tim gà,Group_7
+94,15.1,3.2,1.2,Tim lợn,Group_7
+75,18,0.2,0.4,Tiết bò,Group_7
+44,10.7,0.1,0,Tiết lợn,Group_7
+814,1.1,89.9,0,Tủy xương bò,Group_7
+749,2.3,82.2,0,Tủy xương lợn,Group_7
+326,10.8,24.6,15.4,Ba tê,Group_7
+517,10.8,50.4,5.1,Chả lợn - Chả,Group_7
+416,16.2,39,0,Chả quế lợn,Group_7
+318,23,25,0.3,Dăm bông lợn,Group_7
+114,12.4,7.1,0,Dồi lợn,Group_7
+357,13.8,33.5,0,Giò bò,Group_7
+136,21.5,5.5,0,Giò lụa - Giò - Chả lụa,Group_7
+553,16,54.3,0,Giò thủ lợn,Group_7
+585,20.8,55,1.7,Lạp xưởng,Group_7
+153,16.6,6.5,6.9,Nem chạo,Group_7
+137,21.7,3.7,4.3,Nem chua,Group_7
+369,46.6,20.3,0,Ruốc thịt lợn - Ruốc- Chà bông,Group_7
+239,51,1.6,5.2,Thịt bò khô,Group_7
+226,50.4,2.7,0,Thịt trâu khô,Group_7
+535,27.2,47.4,0,Xúc xích,Group_7
+342,55.4,13.4,0,Bột cóc,Group_7
+130,24.3,3.6,0,Châu chấu,Group_7
+90,20,1.1,0,Thịt ếch - Ếch,Group_7
+111,13,6.5,0,Nhộng,Group_7
+119,17.9,4.5,1.8,Lòng gà,Group_7
+70,15.8,0.8,0,Cá bống,Group_8
+113,20.1,3.6,0,Cá chày,Group_8
+96,16,3.6,0,Cá chép,Group_8
+115,17.6,5,0,Cá da,Group_8
+96,18.9,2.3,0,Cá dầu,Group_8
+87,17.7,1.8,0,Cá diếc,Group_8
+94,18.3,2.3,0,Cá đao,Group_8
+83,18.7,0.9,0,Cá đé,Group_8
+108,19.5,3.3,0,Cá đối,Group_8
+98,20.1,2,0,Cá đồng tiền,Group_8
+136,22,5.3,0,Cá hồi,Group_8
+208,43.3,3.9,0,Cá khô,Group_8
+71,16.7,0.5,0,Cá lác,Group_8
+144,15.4,9.1,0,Cá mè,Group_8
+124,17.5,6,0,Cá mòi (cá sardin),Group_8
+151,16.8,9.3,0,Cá mỡ,Group_8
+116,22.1,3.1,0,Cá mối,Group_8
+80,17.5,1.1,0,Cá nạc,Group_8
+87,21,0.3,0,Cá ngừ,Group_8
+111,20.2,3.3,0,Cá nục,Group_8
+104,15.9,4.5,0,Cá phèn,Group_8
+97,18.2,2.7,0,Cá quả,Group_8
+126,19.1,5.5,0,Cá rô đồng,Group_8
+100,19.7,2.3,0,Cá rô phi - Cá,Group_8
+73,17.4,0.4,0,Cá thờn bơn,Group_8
+166,18.2,10.3,0,Cá thu,Group_8
+156,20,8.4,0,Cá thu đao,Group_8
+110,20.4,3.2,0,Cá trạch - Cá chạch,Group_8
+91,17,2.6,0,Cá trắm,Group_8
+173,16.5,11.9,0,Cá trê,Group_8
+166,17.7,10.6,0,Cá trích,Group_8
+127,18.8,5.7,0,Cá trôi,Group_8
+103,17.5,0.6,7,Cua bể,Group_8
+87,12.3,3.3,2,Cua đồng,Group_8
+54,11.9,0.7,0,Cua - Ghẹ,Group_8
+90,21.5,0.3,0.2,Hải sâm,Group_8
+45,4.5,0.7,5.1,Hến,Group_8
+180,18.4,11.7,0.2,Lươn,Group_8
+291,60.1,4.5,2.5,Mực khô,Group_8
+73,16.3,0.9,0,Mực tươi - Mực,Group_8
+84,11.1,0.7,8.3,Ốc bươu - Ốc,Group_8
+63,11.2,0.3,3.9,Ốc đá,Group_8
+84,11.9,0.7,7.6,Ốc nhồi,Group_8
+72,12.2,0.7,4.3,Ốc vặn,Group_8
+77,12.9,2.8,0,Đam đồng - Rạm - Ba khía,Group_8
+89,12.4,4.4,0,Rươi,Group_8
+78,9.5,2.3,4.9,Sò,Group_8
+58,11.7,1.2,0,Tép gạo,Group_8
+269,59.8,3,0.7,Tép khô - Tép,Group_8
+82,17.6,0.9,0.9,Tôm biển - Tôm,Group_8
+90,18.4,1.8,0,Tôm đồng,Group_8
+347,75.6,3.8,2.5,Tôm khô,Group_8
+38,4.6,1.1,2.5,Trai,Group_8
+676,1.6,59.2,34.1,Bánh phồng tôm,Group_8
+323,71.2,2.9,3,Bột cá,Group_8
+312,65.7,4.1,3,Ruốc cá quả,Group_8
+305,65.5,3.1,3.7,Ruốc tôm,Group_8
+166,14.8,11.6,0.5,Trứng gà - Trứng,Group_9
+327,13.6,29.8,1,Lòng đỏ trứng gà,Group_9
+46,10.3,0.1,1,Lòng trắng trứng gà,Group_9
+184,13,14.2,1,Trứng vịt,Group_9
+364,13.6,32.3,4.8,Lòng đỏ trứng vịt,Group_9
+47,10.7,0.1,0.8,Lòng trắng trứng vịt,Group_9
+154,13.1,11.1,0.4,Trứng chim cút,Group_9
+171,20.5,9.9,0,Trứng cá,Group_9
+274,24.6,17.9,3.5,Trứng cá muối,Group_9
+182,13.6,12.4,4,Trứng vịt lộn,Group_9
+563,44,42.2,1.8,Bột trứng,Group_9
+74,3.9,4.4,4.8,Sữa bò - Sữa tươi - Sữa - Sữa bột,Group_10
+69,3.5,4.1,4.5,Sữa dê tươi,Group_10
+61,1.5,3,7,Sữa mẹ (sữa người),Group_10
+61,3.3,3.7,3.6,Sữa chua,Group_10
+103,3.5,0,22.3,Sữa chua không đường,Group_10
+494,27,26,38,Sữa bột toàn phần,Group_10
+357,35,1,52,Sữa bột không đường,Group_10
+336,8.1,8.8,56,Sữa đặc có đường,Group_10
+380,25.5,30.9,0,Phô mai - Phô mát - Pho mát - Pho mai - Phomat,Group_10
+58,0.5,0,13.9,Chuối nước đường,Group_11
+8,0.3,0.2,1.2,Dưa chuột hộp,Group_11
+53,0.4,0.1,12.7,Dứa hộp,Group_11
+680,25.7,59.5,10.3,Lạc chao dầu,Group_11
+56,0.2,0,13.7,Mắc coọc nước đường,Group_11
+64,0.4,0.1,15.4,Mận nước đường,Group_11
+198,0.5,0,49.1,Mứt bí ngô,Group_11
+218,0.4,0,54.2,Mứt cam có vỏ,Group_11
+218,0.7,0,53.9,Mứt chuối,Group_11
+208,0.5,0,51.5,Mứt dứa,Group_11
+178,0.4,0,44.1,Mứt đu đủ,Group_11
+62,0.5,0,15,Nhãn nước đường,Group_11
+53,0.4,0.1,12.6,Nước dứa hộp,Group_11
+60,0.4,0,14.7,Vải nước đường,Group_11
+207,24.8,12,0,Cá thu hộp,Group_11
+233,22.3,14.4,3.5,Cá trích hộp,Group_11
+251,16.4,20.6,0,Thịt bò hộp,Group_11
+273,17,22.8,0,Thịt gà hộp,Group_11
+344,17.3,29.3,2.7,Thịt lợn hộp,Group_11
+224,19.6,16.2,0,Thịt vịt hầm,Group_11
+346,12.3,1.3,71.3,Bánh bích cốt,Group_12
+376,8.8,4.5,75.1,Bánh quy - Bánh bích quy - Bánh cookies,Group_12
+395,3.4,6.6,80.5,Bánh chả,Group_12
+368,7.5,2.2,79.6,Bánh con cá,Group_12
+416,15.6,11.5,62.4,Bánh đậu xanh,Group_12
+492,8.3,24,60.7,Bánh kem xốp,Group_12
+376,3.2,0.3,90.2,Bánh khảo chay,Group_12
+435,8.3,10.7,76.4,Bánh quế,Group_12
+449,3.9,17.6,68.8,Bánh sô cô la,Group_12
+543,4.9,30.4,62.5,Bánh thỏi sô cô la - sô cô la - Chocolate - Socola - Chocola,Group_12
+369,9.6,3.7,74.2,Bánh trứng nhện,Group_12
+414,19.6,13.7,53,Bột ca cao - Bột cacao - Ca cao - Cacao,Group_12
+390,0,0,97.4,Đường - Đường cát,Group_12
+397,0,0,99.3,Đường kính,Group_12
+448,2.1,17.2,71.1,Kẹo bơ cứng,Group_12
+378,0,1.3,91.5,Kẹo cà phê,Group_12
+377,0,0.5,93.1,Kẹo cam chanh,Group_12
+415,0.6,12.2,75.6,Kẹo dừa mềm,Group_12
+415,0.6,12.2,75.6,Kẹo dứa mềm,Group_12
+449,10.3,16.5,64.8,Kẹo lạc,Group_12
+356,5.2,0,83.8,Kẹo ngậm bạc hà,Group_12
+388,1.6,4.6,85.1,Kẹo sô cô la - Kẹo chocolate - Kẹo socola - Kẹo,Group_12
+390,2.9,5.2,83,Kẹo sữa,Group_12
+417,2.8,6.9,85.9,Kẹo vừng viên,Group_12
+331,0.2,0,82.5,Mạch nha,Group_12
+327,0.4,0,81.3,Mật ong,Group_12
+431,5.4,8.6,82.9,Mứt lạc,Group_12
+283,8.2,7.3,46,Cary bột,Group_13
+323,9.1,5.9,58.3,Gừng khô - Bột gừng,Group_13
+29,0.4,0.8,5.1,Gừng - Gừng tươi,Group_13
+231,7,7.4,34.1,Hạt tiêu - Tiêu - Bột tiêu,Group_13
+0,0,0,0,Muối,Group_13
+295,7.8,9.9,43.8,"Nghệ khô, bột",Group_13
+25,1.1,0.3,4.4,Nghệ tươi - Nghệ,Group_13
+227,15.6,4.2,31.8,Ớt khô bột,Group_13
+26,0.3,0,2.5,Riềng,Group_13
+65,10.5,0.1,5.6,Magi,Group_13
+73,14.8,1.5,0,Mắm tôm,Group_13
+68,8.7,1.2,5.5,Mắm tép chua,Group_13
+35,5.1,0.01,3.6,Nước mắm - Nước mắm cá - Nước chấm,Group_13
+131,32.8,0,0,Nước mắm cô,Group_13
+75,3.9,0.1,14.5,Tương ngô,Group_13
+86,4.3,0.7,15.7,Tương nếp,Group_13
+37,0.5,0.5,7.6,Tương ớt,Group_13
+53,6.3,0.04,6.8,Xì dầu - Nước tương - Tương - Xốt,Group_13
+701,0,77.8,0.1,Sốt mayonnaise,Group_13
+11,0.5,0,2.3,Bia,Group_14
+0,0,0,0,Cô nhắc (Cognac),Group_14
+63,0,0,15.7,Cốc tain (coctail),Group_14
+42,0,0,10.4,Coca cola - Nước ngọt - Nước giải khát - Coca,Group_14
+23,0.7,0.2,4.5,Nước cam tươi,Group_14
+21,0.4,0,4.8,Nước dừa non tươi,Group_14
+19,0.8,0.6,2.6,Nước ép cà chua,Group_14
+0,0,0,0,Nước khoáng - Nước - Nước lọc,Group_14
+24,0.4,0.2,5.1,Nước quít tươi,Group_14
+0,0,0,0,"Rượu cam, chanh",Group_14
+167,4,0,37.7,Rượu nếp,Group_14
+273,0,0,0,Rượu trắng - Rượu,Group_14
+9,0.2,0,2,Rượu vang đỏ,Group_14
+1,0.1,0,0.2,Rượu vang trắng,Group_14
+0,0,0,0,Rượu Whiskey,Group_14
+346,10.3,1.1,73.6,Bánh canh,Group_15
+97,2,0.8,25,Anh đào tươi,Group_15
+125,22.5,7,0,Cá basa - Cá ba sa,Group_15
+0,0,0,0,Blendy,Group_15
+30,2,0,0,Boa rô - Boa-ro - Boaro - Poa-rô,Group_15
+189,19.6,6.78,11,Bào ngư,Group_15
+57,0.7,2.3,8.3,Bánh Oreo,Group_15
+280,12.4,2.8,51.2,Bánh dày - Bánh giày - Bánh giầy,Group_15
+474,3.9,17.2,76,Bánh dừa,Group_15
+146,4.5,4,23,Bánh flan,Group_15
+388,7.8,3.3,81.1,Bánh gạo,Group_15
+124,1.7,0.8,27.5,Bánh hỏi,Group_15
+505,6.9,13.2,89.9,Bánh lọt,Group_15
+261,5,3,50,Bánh nếp,Group_15
+435,8.3,10.7,76.4,Bánh quế (cinnamon roll-style),Group_15
+363,7.4,12.2,56,Bánh sủi cảo,Group_15
+408,7,20,50,Bánh trung thu,Group_15
+333,4,0.2,78.9,Bánh tráng,Group_15
+258,8.5,16,20,Bánh xếp (dumpling-style),Group_15
+393,9,8.6,70,Bánh đa cua,Group_15
+130,4,0.2,78.9,Bánh đa,Group_15
+57,3,0.1,11,Bông A-ti-sô - Atiso,Group_15
+17,1.5,0.1,2.5,Bông súng,Group_15
+53,4,0.5,8,Bông thiên lý,Group_15
+0,0,0,0,Bột canh,Group_15
+385,13,5,72,Bột chiên giòn - Bột chiên xù - Bột xù,Group_15
+174,16,1.1,25.1,Bột nêm,Group_15
+381,0.5,0.2,94.3,Bột năng,Group_15
+183,4.3,1.7,37.6,Bạch quả,Group_15
+156,29.8,2.1,4.4,Bạch tuộc,Group_15
+378,10.8,6.7,68.5,Bạch đậu khấu,Group_15
+290,25,2,3,Bề bề,Group_15
+85,16.5,1,1.6,Ba ba,Group_15
+180,11,15,1,Bọ biển,Group_15
+40,2.7,0.7,5.7,Bồ công anh,Group_15
+41,0.8,0,9.5,Bồn bồn,Group_15
+4,0,0,0.9,Bỗng - Giấm gạo - Giấm - Giấm táo,Group_15
+363,13.2,2.5,72,Bột bánh,Group_15
+16,0.3,0,3.8,Bạc hà,Group_15
+104,2.5,0.7,22,Giềng - Riềng,Group_15
+363,7.4,12.2,56,Há cảo,Group_15
+570,22,50,8,Hạnh nhân,Group_15
+347,2.8,36,2.9,Kem béo - Cream - Kem,Group_15
+299,17.3,0.2,57,Đậu đỏ,Group_15
+259,10.7,21.4,5.9,Phô mai,Group_15
+138,4,1.3,27.5,Bột quế - Quế,Group_15
+61,1.2,0.2,14,Bột rau câu,Group_15
+27,0.2,0,6.6,Sương sa - Sương sáo,Group_15
+340,85,0,0,Bột thạch,Group_15
+73,2.9,3.2,8.2,Trà sữa,Group_15
+147,6.6,2.9,23.7,Trà xanh - Trà,Group_15
+368,0.5,0,89,Vani - Bột vani - va-ni,Group_15
+53,2.1,0.5,10.1,Bột yến mạch,Group_15
+274,6,13,32,Bột đinh hương,Group_15
+355,12.2,0.5,75.4,Cafe - cà phê,Group_15
+90,20,1,0,Cá đuối,Group_15
+21,2.9,0.4,1.4,Cải bó xôi,Group_15
+31,1,0.3,6,Ớt ngọt,Group_15
+33,0.7,0.1,7.2,Cháo - Chao,Group_15
+156,22.9,7.2,0,Chem chép,Group_15
+62,1.1,0.2,13.9,Cherry - Sơ ri,Group_15
+255,25,15,5,Chuột đồng,Group_15
+308,2,0,75,Chà là,Group_15
+50,12.3,0.1,0,Sứa,Group_15
+209,13.6,12.6,10.4,Chả cá,Group_15
+144,12,8,6,Cà ri,Group_15
+73,6.4,1.7,8,Chùm ngây,Group_15
+118,23.3,2.7,0,Bì lợn - Bì heo - Bì,Group_15
+57,4.2,1.5,6.6,Lá găng,Group_15
+22,2.7,0,2.8,Lá kinh giới,Group_15
+127,1.5,0.1,30,Sâm - Hồng sâm,Group_15
+126,18.1,5.9,0.1,Chim sẻ,Group_15
+128,21.8,4.53,0,Chim cút,Group_15
+44,7.2,1.3,0.8,Ruột heo - Ruột lợn,Group_15
+20,1.5,0,3.6,Cà,Group_15
+126,19.4,5.4,0,Cá chim,Group_15
+276,60,4,0,Cá chỉ vàng,Group_15
+125,20.4,4.8,0,Cá cơm,Group_15
+131,26,3,0,Cá diêu hồng,Group_15
+161,27.3,4.6,2.7,Cá kèo,Group_15
+73,15,1.4,0,Cá lóc,Group_15
+112,19,4,0,Cá lăng,Group_15
+87,19.4,1,0,Cá mú,Group_15
+106,22,2,0,Cá suối,Group_15
+129,21,5,0,Cá tầm,Group_15
+65,7,0.5,8,Cá viên,Group_15
+92,18.4,2,0,Cá vược,Group_15
+68,3.3,3.1,6.6,Hương thảo,Group_15
+46,0.9,0.3,10,Cóc,Group_15
+126,2.7,0.4,28,Cơm,Group_15
+24,2.9,0.4,2.2,Cải bó xôi,Group_15
+19,1.7,0.1,2.8,Cần - Rau cần,Group_15  
+11,1.6,0,1.2,Ngò rí - Ngò,Group_15  
+136,5.6,1.7,24.5,Xạ hương,Group_15  
+239,2.8,0.6,54,Me,Group_15  
+279,23,11,24,Củ mài,Group_15  
+48,1.4,0.4,9.8,Dâu tằm,Group_15  
+21,4.4,0,0.9,Giấm - Dấm,Group_15  
+164,18.9,9.8,0,Dồi,Group_15  
+122,17.1,4.7,2.8,Gan ngỗng,Group_15  
+78,2.5,0,17,Hành tím,Group_15  
+674,15.2,65.2,8.1,Hạt óc chó,Group_15  
+641,24.1,59.3,2.8,Hoành thánh,Group_15  
+49,5.7,1.7,2.7,Hàu,Group_15  
+373,16.5,30.7,7.7,Hạt chia,Group_15  
+373,16.5,30.7,7.7,Hạt khô - Hạt,Group_15  
+565,17.7,49.7,11.7,Hạt mè,Group_15  
+63,3.7,3.3,1.8,Mù tạt,Group_15  
+728,22.9,64.3,14.3,Hạt vừng,Group_15  
+27,0.4,0.2,6,Hạt đác,Group_15  
+114,8.7,2.7,13.7,Hủ tiếu,Group_15  
+278,63,2.9,0,Khô cá,Group_15  
+18,1.1,1.1,0.8,Kim chi,Group_15  
+61,1.1,0.5,13,Kiwi - Ki wi,Group_15  
+368,14.2,4.4,67.8,Kỷ tử,Group_15  
+45,3.5,0.5,6.6,Rong biển,Group_15  
+409,14,39.2,0,Ngan,Group_15  
+396,13,10,61,Milo,Group_15  
+178,3.2,0.4,40.4,Mì - Mỳ,Group_15  
+54,10.9,0.7,1.2,Mâm xôi,Group_15  
+53,0.2,0.5,12,Mía,Group_15  
+37,6.4,0,2.9,Mùi tây,Group_15  
+517,10.8,50.4,5.1,Mọc,Group_15  
+896,0,99.6,0,Mỡ - Mỡ lợn,Group_15  
+141,25.5,2,5.1,Ngao - Nghêu,Group_15  
+72,13.8,1.8,0.2,Ngưu bàng,Group_15  
+15,0.4,0.1,0,Nha đam,Group_15  
+186,7,1.1,18.4,Nui,Group_15  
+83,1.8,0.2,18.5,Nếp cẩm,Group_15  
+326,10.8,24.6,15.4,Pa tê - Pate - Patê - Ba tê,Group_15  
+150,4,5.5,21.3,Pudding,Group_15  
+53,0.9,0.3,10.8,Quýt,Group_15  
+15,1.4,0.2,1.9,Rau sống,Group_15  
+83,9.4,1.4,8.3,Rau tiến vua,Group_15  
+81,3.1,3.9,8.4,Sa tế,Group_15  
+112,1.8,0.4,25.3,Sả,Group_15  
+366,7.7,0,83.7,Thính,Group_15  
+383,0.4,0.1,94.8,Thốt nốt,Group_15  
+458,33.9,35.1,1.7,Tóp mỡ,Group_15  
+45,1.7,0.6,8.3,Tảo - Tảo bẹ,Group_15  
+346,8.4,1.6,74.9,Xôi - Xôi nếp,Group_15  
+112,1.8,0.4,25.3,Xả,Group_15  
+389,16.9,6.9,66.3,Yến mạch,Group_15  
