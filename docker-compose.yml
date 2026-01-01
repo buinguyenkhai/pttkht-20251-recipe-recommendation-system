@@ -1,0 +1,48 @@
+services:
+  server:
+    build:
+      context: ./backend
+    ports:
+      - 8000:8000
+    volumes:
+      - uploads:/app/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - server
+      - nginx
+  nginx:
+    image: nginx:stable-alpine
+    ports:
+      - "8080:80"
+    volumes:
+      - uploads:/usr/share/nginx/html/images:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - server
+  db:
+    image: postgres:17
+    container_name: postgres_db_container
+    restart: always
+    user: postgres
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=db_recipe
+      - POSTGRES_PASSWORD=123
+    expose:
+      - 5432
+    healthcheck:
+      test: [ "CMD", "pg_isready" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+volumes:
+  db-data:
+  uploads:
